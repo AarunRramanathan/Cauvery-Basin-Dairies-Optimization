@@ -1,0 +1,22 @@
+﻿Node ID,Node Name,Latitude ,Longitude,Infrastructure Type,Daily Demand Base Liters
+0,Chithode,11.387,77.655,Primary,0
+1,Kanjikovil,11.367,77.594,Rural,2100
+2,Kavundappadi,11.427,77.558,Primary,1500
+3,Lakkampatti,11.449,77.410,Rural,800
+4,Anthiyur,11.577,77.588,Primary,2500
+5,Appakudal,11.476,77.576,Primary,1200
+6,Ammapettai,11.597,77.712,Rural,900
+7,Thingalur,11.365,77.525,Primary,1800
+8,Chennimalai,11.159,77.609,Primary,2000
+9,Vellode,11.233,77.658,Rural,600
+10,Modakurichi,11.236,77.779,Primary,1400
+11,Arachalur,11.139,77.676,Rural,2300
+12,Sivagiri,11.116,77.790,Primary,1100
+13,Kodumudi,11.073,77.878,Primary,1900
+14,Nasiyanur,11.340,77.640,Rural,1000
+15,Perundurai,11.274,77.584,Primary,2600
+16,Vijayamangalam,11.243,77.501,Rural,700
+17,  Kunnathur,11.274,77.410,Primary,1300
+18,Uthukuli,11.294,77.752,Primary,1600
+19,Gobichettipalayam,11.455,77.438,Primary,2400
+20,Nambiyur,11.357,77.317,Rural,1200

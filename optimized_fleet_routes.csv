@@ -1,0 +1,7 @@
+Truck ID,Vehicle Class,Route Sequence,Distance km,Time min,Load L,Utilization %,Fuel Burned L,Fuel Cost INR
+Heavy_1,Heavy Truck,Depot (0) -> Perundurai (15) -> Chennimalai (8) -> Kodumudi (13) -> Modakurichi (10) -> Uthukuli (18) -> Depot (0),121.35,119.5,4750.0,95.0,30.34,2791.08
+Heavy_2,Heavy Truck,Depot (0) -> Anthiyur (4) -> Appakudal (5) -> Kavundappadi (2) -> Thingalur (7) -> Depot (0),59.7,68.8,3500.0,70.0,14.93,1373.17
+Light_1,Light Truck,Depot (0) -> Lakkampatti (3) ->   Kunnathur (17) -> Vijayamangalam (16) -> Sivagiri (12) -> Depot (0),160.47,161.5,1950.0,97.5,20.06,1845.45
+Light_2,Light Truck,Depot (0) -> Gobichettipalayam (19) -> Nambiyur (20) -> Depot (0),113.41,130.2,1800.0,90.0,14.18,1304.25
+Light_3,Light Truck,Depot (0) -> Kanjikovil (1) -> Vellode (9) -> Ammapettai (6) -> Depot (0),94.7,95.1,1800.0,90.0,11.84,1089.09
+Light_4,Light Truck,Depot (0) -> Arachalur (11) -> Nasiyanur (14) -> Depot (0),78.62,77.1,1650.0,82.5,9.83,904.18
